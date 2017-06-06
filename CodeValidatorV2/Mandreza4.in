@@ -1,0 +1,15 @@
+7
+1
+int x, xy = 2, z float 23.5;
+3
+void function(int ) {int x = a * a; return x;} int square(int b}{return b*b;}
+2
+float 2function();int auxialliary(int);char coal(double dd);
+3
+void function(int hug) {int a = 1; int x = a * a; return x;} int square(int b){return b*b;}
+1
+int x, xy = x + x - x, z[] = {23.5,23,52};
+1
+int x, xy = x, z[] = {23.5,23,52}; int a, ab = a, c[] = {23.5,23,52};
+2
+void function(char jump); int auxialliary(int input);char coal(double dd);

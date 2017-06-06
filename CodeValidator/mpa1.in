@@ -1,0 +1,9 @@
+int x, y, z = 10;
+double a
+int function();
+int func(int){
+int x = 10;
+}
+int square(int x){
+    return x * x;
+}
